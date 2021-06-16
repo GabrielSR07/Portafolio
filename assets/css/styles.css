@@ -278,6 +278,7 @@ img{
 .skills__names{
   display: flex;
   align-items: center;
+  
 }
 .skills__bar{
   position: absolute;
@@ -288,6 +289,8 @@ img{
   border-radius: .5rem;
   z-index: var(--z-back);
 }
+
+/*
 .skills__html{
   width: 80%;
 }
@@ -306,6 +309,9 @@ img{
 .skills__ux{
   width: 85%;
 }
+
+*/
+
 .skills__español{
   width: 100%;
 }
@@ -315,6 +321,8 @@ img{
 .skills__aleman{
   width: 25%;
 }
+
+
 .skills__img{
   border-radius: .5rem;
 }
